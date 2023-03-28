@@ -1,0 +1,3 @@
+[submodule "ci/android-emulator-container-scripts"]
+	path = ci/android-emulator-container-scripts
+	url = https://github.com/google/android-emulator-container-scripts.git
